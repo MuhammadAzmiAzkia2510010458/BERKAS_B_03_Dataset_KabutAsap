@@ -1,4 +1,4 @@
-Nama File dan berada didalam Folder,Kondisi Asap,Sumber,Sumber URL,Photographer,Deskripsi,Jarak pandang
-dataset/tebal/foto001.jpg,tebal,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap terlihat tebal,100m
-dataset/sedang/foto002.jpg,sedang,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap mulai mengurangi jarak pandang,100-150m
-dataset/tebal/foto003.jpg,tebal,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap pekat,100-150m
+No,Nama File dan berada didalam Folder,Kondisi Asap,Sumber,Sumber URL,Photographer,Deskripsi,Jarak pandang
+1,dataset/tebal/foto001.jpg,tebal,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap terlihat tebal,100m
+2,dataset/sedang/foto002.jpg,sedang,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap mulai mengurangi jarak pandang,100-150m
+3,dataset/tebal/foto003.jpg,tebal,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap pekat,100-150m
