@@ -1,4 +1,35 @@
 No,Nama File dan berada didalam Folder,Kondisi Asap,Sumber,Sumber URL,Photographer,Deskripsi,Jarak pandang
-1,dataset/tebal/foto001.jpg,tebal,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap terlihat tebal,100m
+1,dataset/tebal/foto001.jpg,tebal,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap terlihat tebal,<100m
 2,dataset/sedang/foto002.jpg,sedang,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap mulai mengurangi jarak pandang,100-150m
-3,dataset/tebal/foto003.jpg,tebal,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap pekat,100-150m
+3,dataset/tebal/foto003.jpg,tebal,Dokumentasi pribadi,,Muhammad Azmi Azkia,Asap pekat,<100
+4,dataset/tebal/foto004.jpg,tebal,Radio Suara Banjar,https://rsb.banjarkab.go.id/wp-content/uploads/2026/10/IMG-20261010-WA0034.jpg,Tidak diketahui,Berkendara ditengah Asap,<100m
+5,dataset/tipis/foto005.jpg,tipis,Wikimedia Commons,"https://commons.wikimedia.org/wiki/File%3AKalimantan_%28Borneo%29_under_thick_smoke_haze%2C_August_2026.jpg?utm_source=chatgpt.com#/media/File:Kalimantan_(Borneo)_under_thick_smoke_haze,_August_2026.jpg",PadukaYash,Matahari jadi memerah karna kabut asap,>500m
+6,dataset/sedang/foto006.jpg,sedang,Mongabay Indonesia,https://mongabay.co.id/2026/09/08/anak-anak-tersiksa-asap-karhutla-kalimantan-selatan/,Riyad Dafhi Rizki,Seorang wanita sedang joging ditengah Asap,100-150m
+7,dataset/tipis/foto007.jpg,tipis,Mongabay Indonesia,https://mongabay.co.id/2026/09/08/anak-anak-tersiksa-asap-karhutla-kalimantan-selatan/,Riyad Dafhi Rizki,Dua siswa menutup hidung di tengah asap menuju sekolah,>500m
+8,dataset/sedang/foto008.jpg,sedang,Mongabay Indonesia,https://mongabay.co.id/2026/09/08/anak-anak-tersiksa-asap-karhutla-kalimantan-selatan/,Riyad Dafhi Rizki,Sungat berkabut asap,100-150m
+9,dataset/tebal/foto009.webp,tebal,ANTARAFOTO,https://www.antarafoto.com/id/view/2862501/kabut-asap-karhutla-di-kalimantan-barat,Jessica Wuysang,Kapal di tengah laut yang sedang terkena kabut asap,<100m
+10,dataset/tebal/foto010.webp,tebal,ANTARAFOTO,https://www.antarafoto.com/id/view/2862501/kabut-asap-karhutla-di-kalimantan-barat,Jessica Wuysang,Barisan Truk di tengah kabut asap,<100m
+11,dataset/sedang/foto011.png,sedang,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Nova Wahyudi,Jembatan tertutup asap,100-150m
+12,dataset/tebal/foto012.png,tebal,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Nova Wahyudi,foto dari atas perumahan yang terdampak kabut,<100m
+13,dataset/tebal/foto013.png,tebal,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Nova Wahyudi,foto dari atas Kawasan bundaran dan kereta lewat di tengah asap,<100m
+14,dataset/tipis/foto014.jpg,tipis,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Nova Wahyudi,Aktivitas warga sedang berjoging di tengah asap,>500m
+15,dataset/sedang/foto015.png,sedang,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Jessica Wuysang,Perahu melintas di tengah sungai berkabut,100-150m
+16,dataset/tebal/foto016.png.,tebal,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Jessica Wuysang,Dua kapal hampir tidak terlihat di tengah kabut,<100m
+17,dataset/tipis/foto017.png,tipis,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Jessica Wuysang,Perahu melintas di tengah asap yang mulai tipis,>500m
+18,dataset/tipis/foto018.jpg,tipis,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Rony Muharrman,Kondisi di tepi Jembatan,>500m
+19,dataset/tipis/foto019.jpg,tipis,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Rony Muharrman,Kondisi berkendara di Jembatan,>500m
+20,dataset/tipis/foto020.jpg,tipis,ANTARAFOTO & KataData,https://katadata.co.id/foto/6a8bdedfaceff/foto-kabut-asap-selimuti-palembang-hingga-pontianak-imbas-kebakaran-hutan,Rony Muharrman,Penampakan dari bawah Jembatan,>500m
+21,dataset/tipis/foto021.jpg,tipis,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Kabut_asap_di_Tanah_Datar.jpg,Adhmi,Kabut di hamparan hutan,>500m
+22,dataset/sedang/foto022.jpg,sedang,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Kabut_asap_di_Palangka_Raya_(6).jpg,Raflinoer32,Kondisi sebuah komplek perumahan,100-150m
+23,dataset/tipis/foto023.jpg,tipis,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Kabut_asap_di_Palangka_Raya_(1).jpg,Raflinoer32,Kondisi sebuah jalananan di Palangka Raya,>500m
+24,dataset/tipis/foto024.jpg,tipis,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Kabut_asap_di_Palangka_Raya_(2).jpg,Raflinoer32,Kondisi sebuah jalanan di Palangka Raya,>500m
+25,dataset/sedang/foto025.jpg,sedang,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Kabut_asap_di_Palangka_Raya_(3).jpg,Raflinoer32,Kondisi sebuah jalanan di Palangka Raya,100-150m
+26,dataset/tebal/foto026.jpg,tebal,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Kabut_asap_di_Palangka_Raya_(4).jpg,Raflinoer32,Halaman tertutup asap,<100m
+27,dataset/tebal/foto027.jpg,tebal,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Kabut_asap_di_Palangka_Raya_(5).jpg,Raflinoer32,Sebuah gedung Hotel tertutup kabut,<100m
+28,dataset/tipis/foto028.jpg,tipis,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Kabut_asap_di_Palangka_Raya_(7).jpg,Raflinoer32,Kabut tipis di sebuah jalanan,>500m
+29,dataset/tebal/foto029.jpg,tebal,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Kabut_asap_di_Palangka_Raya_(8).jpg,Raflinoer32,Jalanan tertutup kabut tebal,<100m
+30,dataset/tebal/foto030.jpg,tebal,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:Asap_tebal_di_Kota_Pontianak.jpg,Mie Kuah Kaldu,Sungai tertutup kabut asap,<100m
+
+
+
+
