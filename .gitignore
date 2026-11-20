@@ -1,0 +1,45 @@
+
+# Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS temporary files
+.DS_Store
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.old
+*~
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary archives
+*.zip
+*.rar
+*.7z
+
+# Environment and private credentials
+.env
+.env.*
+!.env.example
