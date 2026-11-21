@@ -104,10 +104,10 @@ https://github.com/MuhammadAzmiAzkia2510010458/BERKAS_B_03_Dataset_KabutAsap/com
 | No. | Nama Anggota | NPM | Bukti Riwayat Commit Anggota |
 |---|---|---|---|
 | 1 | [Muhammad Azmi Azkia] | [2510010458] | [https://github.com/MuhammadAzmiAzkia2510010458/BERKAS_B_03_Dataset_KabutAsap/commits/main/?author=MuhammadAzmiAzkia2510010458] |
-| 2 | [Nama Anggota 2] | [NPM] | [Link commit] |
-| 3 | [Nama Anggota 3] | [NPM] | [Link commit] |
-| 4 | [Nama Anggota 4] | [NPM] | [Link commit] |
-| 5 | [Nama Anggota 5] | [NPM] | [Link commit] |
+| 2 | [Raafi Ghozaly Irawan] | [2510010381] | [Link commit] |
+| 3 | [Fajar] | [2510010038] | [Link commit] |
+| 4 | [Ali Zainal Abidin Assegaf] | [2510010376] | [Link commit] |
+| 5 | [Moh. Rizki Erlangga] | [2510010331] | [Link commit] |
 
 ## 7. Sumber Dataset
 
